@@ -1,0 +1,6 @@
+[submodule "libs/logger"]
+	path = libs/logger
+	url = git@github.com:remdevlab/android-rem-logger.git
+[submodule "libs/utils"]
+	path = libs/utils
+	url = git@github.com:remdevlab/android-rem-com.git
